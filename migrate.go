@@ -4,5 +4,5 @@ import "fmt"
 
 // PrintMigrate will print "migrate'
 func PrintMigrate() {
-	fmt.Println("migrate v2 patch :D:D?!!")
+	fmt.Println("migrate v1 rename in minor")
 }
